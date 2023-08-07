@@ -1,0 +1,16 @@
+{
+  "name": "unenv-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "nitro build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nitropack": "^2.5.2",
+    "typescript": "^5.1.6"
+  }
+}
